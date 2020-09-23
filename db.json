@@ -1,0 +1,38 @@
+
+    {
+        "countries":[
+            {
+                "id": 1,
+                "name": "India",
+                "country_id": 1
+            },
+            {
+                "id": 2,
+                "name": "USA",
+                "country_id": 2
+            }
+        ],
+            "states":[
+                
+        {
+            "id": 1,
+            "name": "Andhra Pradesh",
+            "country_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Karnataka",
+            "country_id": 1
+        },
+        {
+            "id": 3,
+            "name": "TamilNadu",
+            "country_id": 1
+        },
+        {
+            "id": 4,
+            "name": "Denmark",
+            "country_id": 2
+        }
+    ]
+}  
